@@ -85,3 +85,4 @@ Los cambios realizados al agregar o actualizar se guardan inmediatamente. El pro
 - [Documentación oficial del módulo `os`](https://docs.python.org/3/library/os.html)
 - [Estructuras de datos en Python](https://docs.python.org/3/tutorial/datastructures.html)
 - [Repository, por Muhsin Kılıç](https://medium.com/@kmuhsinn/the-repository-pattern-in-python-write-flexible-testable-code-with-fastapi-examples-aa0105e40776)
+- [Link a Video](https://drive.google.com/drive/u/0/home)
